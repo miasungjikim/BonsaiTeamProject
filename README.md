@@ -8,13 +8,10 @@ The main idea of this project is to build a system that helps manage stock and e
 It should allow the admin to see low-stock items, update the inventory, and manage staff schedules.
 Users will also be able to choose a store, view products, and make purchases that update the stock in real-time.
 
-# Out Team & Roles
------------------------------------------------------------------
-|name                    | Role(s)                              |
-|Rehan Ahmed             | Product Owner, Developer, Tester     |                       
-|Sungji Kim              | Github Manager, Developer, Tester    |
-|Tasnim Noor Muskan      | Scrum Master, Developer, Tester      |
-_________________________________________________________________
+# Our Team & Roles
+- Rehan Agmed : Product Owner, Developer, Tester 
+- Sungji Kim : Github Manager, Developer, Tester  
+- Tasnim Noor Muskan : Scrum Master, Developer, Tester 
 
 # Key Features 
 - Login system with user and admin access
@@ -31,7 +28,12 @@ _________________________________________________________________
 - IDE : Visual Studio, Clion
 
 # Folder Layout 
-/src
+- main 
+- branch1 (feature/signin)
+- branch2 (feature/login)
+- branch3 (feature/user-inventory)
+- branch4 (feature/stock-management)
+- branch5 (feature/staff scheduling)
 
 # How we use 'Git'
 - We do all development on feature branches.
