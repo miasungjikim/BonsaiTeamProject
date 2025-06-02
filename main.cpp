@@ -13,9 +13,10 @@ int main() {
     */
 
     /*
+	*
+	*
      *deleting
      * manager.deleteProduct("P003");
-    *
 	*/
 
 
