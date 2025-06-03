@@ -7,9 +7,10 @@
 #include <string>
 using namespace std;
 
-struct Product{
+struct Product {
     string product_id;
     string name;
+    string category;
     int quantity;
     string release_date;
     string store;
