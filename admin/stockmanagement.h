@@ -15,8 +15,8 @@ private:
 public:
 
     void loadFromFile(const string& filename); //product Information
-    void saveToFile(const string& filename) const;
     void addProduct(const Product& new_product); //userstory4
+    void saveToFile(const string& filename) const;
     void updateProduct(const string& product_id, const Product& updated_product); //userstory5
     void deleteProduct(const string& product_id); //userstory6
     void viewLowStockItems() const; //userstory2

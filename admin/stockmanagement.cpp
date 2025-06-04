@@ -164,4 +164,18 @@ void StockManagement::viewLowStockItems() const {
     }
 }
 
+void StockManagement::updateStockAfterPurchase(const string& product_id, int quantity_purchased) {
+    for (auto& product : products) {
+        if (product.product_id == product_id) {
+            if (product.quantity >= quantity_purchased) {
+                product.quantity -= quantity_purchased;
+                cout << "Purchase successful. Remaining stock: " << product.quantity << endl;
+            } else {
+                cout << "Not enough stock for product '" << product_id << "'.\n";
+            }
+            return;
+        }
+    }
+    cout << "Product ID '" << product_id << "' not found.\n";
+}
 

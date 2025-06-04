@@ -1,30 +1,15 @@
 #include <iostream>
-#include "admin/stockmanagement.h"
+#include "admin/adminmenu.h" // 너가 만든 admin 화면 헤더파일
+
 using namespace std;
 
 int main() {
-    StockManagement stock;
-    stock.loadFromFile("products.txt");
-    cout << "\n[ All Products in Inventory ]" << endl;
-    stock.viewAllProducts();
+    //Rehan : login by admin
 
 
-    Product new_product = {"P002", "Earrings", "Jewelry", 15, "2025-06-05", "Wellington"};
+    cout << "[Admin Mode Activated]\n" << endl;
 
-    stock.addProduct(new_product);
-    stock.saveToFile("products.txt");
-
-
-    // stock.deleteProduct("P001");
-    // stock.saveToFile("products.txt");
-
-    Product updated_product = {"P002", "Earrings", "Accessories", 4, "2025-06-10", "Wellington"};
-    stock.updateProduct("P002", updated_product);
-    stock.saveToFile("products.txt");
-
-
-    stock.viewLowStockItems();
-
+    runAdminPanel();  // admin 메뉴 진입
 
     return 0;
 }
