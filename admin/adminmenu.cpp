@@ -42,9 +42,9 @@ void runAdminPanel() {
                 cout << "Enter new quantity: ";
                 cin >> updated.quantity;
                 cin.ignore();
-                cout << "Enter new release date(e.g. 0000-00-00): ";
+                cout << "Enter new release date(e.g. DD-MM-YYYY): ";
                 getline(cin, updated.release_date);
-                cout << "Enter new store location: ";
+                cout << "Enter new store location(AUCKLAND or WELLINGTON CBD or CHRISTCHURCH): ";
                 getline(cin, updated.store);
 
                 stock.updateProduct(id, updated);
@@ -62,9 +62,9 @@ void runAdminPanel() {
                 cout << "Enter quantity: ";
                 cin >> newProduct.quantity;
                 cin.ignore();
-                cout << "Enter release date: ";
+                cout << "Enter release date(e.g. DD-MM-YYYY): ";
                 getline(cin, newProduct.release_date);
-                cout << "Enter store: ";
+                cout << "Enter store location(AUCKLAND or WELLINGTON CBD or CHRISTCHURCH): ";
                 getline(cin, newProduct.store);
 
                 stock.addProduct(newProduct);

@@ -46,18 +46,18 @@ void StockManagement::viewAllProducts() const {
     }
 
     cout << "All Products:\n";
-    cout << "--------------------------------------------------------------------------------\n";
+    cout << "++++++++++--------------------------------------------------------------------------------++++++++++\n";
     cout << left << setw(10) << "ID"
-         << setw(15) << "Name"
+         << setw(30) << "Name"
          << setw(15) << "Category"
          << setw(8)  << "Qty"
          << setw(15) << "Release Date"
          << setw(15) << "Store" << endl;
-    cout << "--------------------------------------------------------------------------------\n";
+    cout << "++++++++++--------------------------------------------------------------------------------++++++++++\n";
 
     for (const auto& product : products) {
         cout << left << setw(10) << product.product_id
-             << setw(15) << product.name
+             << setw(30) << product.name
              << setw(15) << product.category
              << setw(8)  << product.quantity
              << setw(15) << product.release_date
@@ -66,7 +66,8 @@ void StockManagement::viewAllProducts() const {
 }
 
 void StockManagement::addProduct(const Product& new_product) {
-    for (const auto& product : products) {
+    for (const auto& product : products)
+        {
         if (product.product_id == new_product.product_id) {
             cout << "Product ID already exists. Cannot add duplicate product.\n";
             return;
@@ -137,21 +138,21 @@ void StockManagement::saveToFile(const string& filename) const {
 void StockManagement::viewLowStockItems() const {
     bool has_low_stock = false;
 
-    cout << "\n[ Low Stock Items (5 or less) ]\n";
-    cout << "--------------------------------------------------------------------------------\n";
+    cout << "\n[ ⚠️Low Stock Items (5 or less)⚠️ ]\n";
+    cout << "++++++++++--------------------------------------------------------------------------------++++++++++\n";
     cout << left << setw(10) << "ID"
-         << setw(15) << "Name"
+         << setw(30) << "Name"
          << setw(15) << "Category"
          << setw(8)  << "Qty"
          << setw(15) << "Release Date"
          << setw(15) << "Store" << endl;
-    cout << "--------------------------------------------------------------------------------\n";
+    cout << "++++++++++--------------------------------------------------------------------------------++++++++++\n";
 
     for (const auto& product : products) {
         if (product.quantity <= 5) {
             has_low_stock = true;
             cout << left << setw(10) << product.product_id
-                 << setw(15) << product.name
+                 << setw(30) << product.name
                  << setw(15) << product.category
                  << setw(8)  << product.quantity
                  << setw(15) << product.release_date
