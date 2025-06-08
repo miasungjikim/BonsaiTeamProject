@@ -38,3 +38,4 @@
 38,Glass Teapot,home,9,2025-03-01,WELLINGTON CBD
 39,Linen Pants,fashion,7,2024-10-21,CHRISTCHURCH
 40,Hand Cream,beauty,33,2024-11-17,AUCKLAND
+41,Hand Cream, beauty, 5, 2024-11-17, AUCKLAND
