@@ -4,10 +4,7 @@ project(BonsaiTeamProject)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(BonsaiTeamProject
-        main.cpp
-        admin/adminmenu.cpp
-        admin/stockmanagement.cpp
-        ui.cpp
-        signup/signup.cpp
+        src/main.cpp
+        src/ui.cpp
 )
 
