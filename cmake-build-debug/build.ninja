@@ -61,6 +61,12 @@ build CMakeFiles/BonsaiTeamProject.dir/src/ui.cpp.o: CXX_COMPILER__BonsaiTeamPro
   OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
   OBJECT_FILE_DIR = CMakeFiles/BonsaiTeamProject.dir/src
 
+build CMakeFiles/BonsaiTeamProject.dir/src/signup.cpp.o: CXX_COMPILER__BonsaiTeamProject_unscanned_Debug /Users/mia/BonsaiTeamProject/src/signup.cpp || cmake_object_order_depends_target_BonsaiTeamProject
+  DEP_FILE = CMakeFiles/BonsaiTeamProject.dir/src/signup.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
+  OBJECT_FILE_DIR = CMakeFiles/BonsaiTeamProject.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target BonsaiTeamProject
@@ -69,7 +75,7 @@ build CMakeFiles/BonsaiTeamProject.dir/src/ui.cpp.o: CXX_COMPILER__BonsaiTeamPro
 #############################################
 # Link the executable BonsaiTeamProject
 
-build BonsaiTeamProject: CXX_EXECUTABLE_LINKER__BonsaiTeamProject_Debug CMakeFiles/BonsaiTeamProject.dir/src/main.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/ui.cpp.o
+build BonsaiTeamProject: CXX_EXECUTABLE_LINKER__BonsaiTeamProject_Debug CMakeFiles/BonsaiTeamProject.dir/src/main.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/ui.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/signup.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
   POST_BUILD = :

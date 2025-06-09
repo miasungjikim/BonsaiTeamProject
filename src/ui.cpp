@@ -5,6 +5,7 @@
 
 #include <iostream>
 #include "ui.h"
+#include "signup.h"
 using namespace std;
 
 void showMainMenu() {
@@ -33,10 +34,10 @@ void showMainMenu() {
 
         switch (choice) {
             case 1:
-                login();    // login
+                login();
                 break;
             case 2:
-                signUp();   // signup
+                signUp();
                 break;
             case 3:
                 cout << "Exiting program. Goodbye!" << endl;
@@ -53,6 +54,5 @@ void login() {
 }
 
 void signUp() {
-    cout << "[Stub] Sign Up function goes here." << endl;
-    // 실제 signup 기능은 feature/signup 브랜치에서 구현
+    signupMenu();
 }
