@@ -6,6 +6,8 @@
 #include <iostream>
 #include "ui.h"
 #include "signup.h"
+#include "signin.h"
+
 using namespace std;
 
 void showMainMenu() {
@@ -49,8 +51,7 @@ void showMainMenu() {
 }
 
 void login() {
-    cout << "[Stub] Login function goes here." << endl;
-    // 실제 login 기능은 feature/login 브랜치에서 구현
+    loginMenu();
 }
 
 void signUp() {
