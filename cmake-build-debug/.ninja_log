@@ -1,0 +1,10 @@
+# ninja log v6
+2	373	1749466576876694381	CMakeFiles/BonsaiTeamProject.dir/src/main.cpp.o	9339eeeea699a624
+5	472	1749464988259941033	CMakeFiles/BonsaiTeamProject.dir/signup/signup.cpp.o	8aa95518bceed466
+2	56	1749466821894147802	build.ninja	5d874d7c330dae2f
+2	377	1749466576877466506	CMakeFiles/BonsaiTeamProject.dir/src/ui.cpp.o	fd01bbd35ba03176
+4	419	1749464988259536495	CMakeFiles/BonsaiTeamProject.dir/admin/adminmenu.cpp.o	f0c5aaa9475dd8b0
+2	509	1749465367648967750	CMakeFiles/BonsaiTeamProject.dir/main.cpp.o	a74d54b6c66e843e
+377	473	1749466577251987733	BonsaiTeamProject	ab4b03b087eb485e
+4	500	1749464988259687243	CMakeFiles/BonsaiTeamProject.dir/admin/stockmanagement.cpp.o	f8ab4789d547cec9
+5	412	1749464988259813451	CMakeFiles/BonsaiTeamProject.dir/ui.cpp.o	e1fe2acc8aa91ab7

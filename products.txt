@@ -1,2 +1,0 @@
-P002,Earings,Accessories,120,2025-03-21,Wellington
-P004,Elephant,Animal,300,3024-23-21,Auckland
