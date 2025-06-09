@@ -1,0 +1,14 @@
+# ninja log v6
+5	562	1749460429357982552	CMakeFiles/BonsaiTeamProject.dir/ui.cpp.o	6a7798f5b7410f7c
+2	406	1749425206980190485	CMakeFiles/BonsaiTeamProject.dir/admin/stockmanagement.cpp.o	13a3a0d0fb105f1a
+562	668	1749460429914854434	BonsaiTeamProject	6d85b4bf7e5cc7b6
+4	357	1749458524476612570	CMakeFiles/BonsaiTeamProject.dir/main.cpp.o	1b462d80a9552a53
+3	307	1749425401944337880	CMakeFiles/BonsaiTeamProject.dir/admin/adminmenu.cpp.o	a5d4902338c0f023
+2	60	1749464970689924037	build.ninja	b1c202a5aa190c4b
+4	557	1749290437186486111	CMakeFiles/BonsaiTeamProject.dir/signup/signup.cpp.o	57c33d6331f3fb25
+5	412	1749464988259813451	CMakeFiles/BonsaiTeamProject.dir/ui.cpp.o	e1fe2acc8aa91ab7
+4	413	1749464988259225247	CMakeFiles/BonsaiTeamProject.dir/main.cpp.o	a74d54b6c66e843e
+4	419	1749464988259536495	CMakeFiles/BonsaiTeamProject.dir/admin/adminmenu.cpp.o	f0c5aaa9475dd8b0
+5	472	1749464988259941033	CMakeFiles/BonsaiTeamProject.dir/signup/signup.cpp.o	8aa95518bceed466
+4	500	1749464988259687243	CMakeFiles/BonsaiTeamProject.dir/admin/stockmanagement.cpp.o	f8ab4789d547cec9
+501	538	1749464988755742749	BonsaiTeamProject	6d85b4bf7e5cc7b6
