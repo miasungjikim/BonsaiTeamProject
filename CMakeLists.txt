@@ -10,5 +10,7 @@ add_executable(BonsaiTeamProject
         src/signin.cpp
         src/admin_panel.cpp
         src/user_panel.cpp
-)
+        admin/stockmanagement.cpp
+        admin/admin_functions.cpp
 
+)

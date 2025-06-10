@@ -1,11 +1,17 @@
 //
 // Created by MiaKim on 09/06/2025.
 //
+// admin_panel.cpp
 #include <iostream>
 #include "admin_panel.h"
+#include "../admin/stockmanagement.h"
+#include "../admin/admin_functions.h"
 using namespace std;
 
 void adminPanel() {
+    StockManagement stock;
+    stock.loadFromFile("products.txt");
+
     int choice;
 
     while (true) {
@@ -17,10 +23,11 @@ void adminPanel() {
         cout << "5) Logout" << endl;
         cout << "Enter your choice: ";
         cin >> choice;
+        cin.ignore();
 
         switch (choice) {
             case 1:
-               adminViewInventory();
+                adminViewInventory(stock);
                 break;
             case 2: {
                 int sub_choice;
@@ -30,21 +37,21 @@ void adminPanel() {
                 cout << "3) Delete Product" << endl;
                 cout << "Enter your choice: ";
                 cin >> sub_choice;
+                cin.ignore();
 
                 switch (sub_choice) {
-                    case 1: addProduct(); break;
-                    case 2: editProduct(); break;
-                    case 3: deleteProduct(); break;
+                    case 1: adminAddProduct(stock); break;
+                    case 2: adminEditProduct(stock); break;
+                    case 3: adminDeleteProduct(stock); break;
                     default: cout << "Invalid choice.\n";
                 }
                 break;
             }
             case 3:
-                viewPurchaseOrders();
-                markAsReady();
+                cout << "[Placeholder] Viewing purchase orders...\n";
                 break;
             case 4:
-                cout << "Here is the staff scheduling";
+                cout << "[Placeholder] Staff scheduling coming soon...\n";
                 break;
             case 5:
                 cout << "Logging out..." << endl;
@@ -52,43 +59,7 @@ void adminPanel() {
             default:
                 cout << "Invalid option. Try again." << endl;
         }
+
+        stock.saveToFile("products.txt");
     }
 }
-
-// ===== Stub 함수들 =====
-
-void adminViewInventory() {
-    cout << "View All Inventory" << endl;
-    filterByStore();
-    viewLowStock();
-}
-
-void filterByStore() {
-    cout << " (1-0)" << endl;
-}
-
-void viewLowStock() {
-    cout << "(1-1)" << endl;
-}
-
-void addProduct() {
-    cout << "(2-1)" << endl;
-}
-
-void editProduct() {
-    cout << "(2-2)" << endl;
-}
-
-void deleteProduct() {
-    cout << "(2-3)" << endl;
-}
-
-void viewPurchaseOrders() {
-    cout << "(3)" << endl;
-}
-
-void markAsReady() {
-    cout << "(3-1)" << endl;
-}
-
-// + staff scheduling
