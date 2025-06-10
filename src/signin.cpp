@@ -10,6 +10,7 @@ using namespace std;
 
 #include "signin.h"
 #include "admin_panel.h"
+#include "user_panel.h"
 
 bool checkLogin(const string& file_name, const string& email, const string& password) {
     ifstream file(file_name);
@@ -60,7 +61,7 @@ void loginMenu() {
         cout << "Login successful!" << endl;
         if (role_choice == 1) {
             cout << "Redirecting to User Panel..." << endl;
-            // userPanel();  // 나중에 연결할 예정
+            userPanel();
         } else {
             cout << "Redirecting to Admin Panel..." << endl;
             adminPanel();

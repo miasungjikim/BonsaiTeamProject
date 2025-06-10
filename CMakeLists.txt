@@ -9,5 +9,6 @@ add_executable(BonsaiTeamProject
         src/signup.cpp
         src/signin.cpp
         src/admin_panel.cpp
+        src/user_panel.cpp
 )
 

@@ -20,7 +20,7 @@ void adminPanel() {
 
         switch (choice) {
             case 1:
-                viewInventory();
+               adminViewInventory();
                 break;
             case 2: {
                 int sub_choice;
@@ -57,7 +57,7 @@ void adminPanel() {
 
 // ===== Stub 함수들 =====
 
-void viewInventory() {
+void adminViewInventory() {
     cout << "View All Inventory" << endl;
     filterByStore();
     viewLowStock();

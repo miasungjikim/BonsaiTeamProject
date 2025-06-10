@@ -2,16 +2,13 @@
 // Created by MiaKim on 09/06/2025.
 //
 
-#ifndef INVENTORY_H
-#define INVENTORY_H
-
 #ifndef ADMIN_PANEL_H
 #define ADMIN_PANEL_H
 
 void adminPanel();
 
 // 1. Inventory
-void viewInventory();     // 전체 보기
+void adminViewInventory();     // 전체 보기
 void filterByStore();     // 1-0
 void viewLowStock();      // 1-1
 
@@ -29,4 +26,4 @@ void markAsReady();         // 3-1
 
 #endif
 
-#endif //INVENTORY_H
+
