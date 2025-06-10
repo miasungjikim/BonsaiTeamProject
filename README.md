@@ -34,6 +34,7 @@ Users will also be able to choose a store, view products, and make purchases tha
 - branch3 (feature/user-inventory)
 - branch4 (feature/stock-management)
 - branch5 (feature/staff scheduling)
+- branch6 (feature/main-frame)
 
 # How we use 'Git'
 - We do all development on feature branches.
