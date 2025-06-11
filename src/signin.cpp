@@ -61,7 +61,7 @@ void loginMenu() {
         cout << "Login successful!" << endl;
         if (role_choice == 1) {
             cout << "Redirecting to User Panel..." << endl;
-            userPanel();
+            userPanel(email);
         } else {
             cout << "Redirecting to Admin Panel..." << endl;
             adminPanel();

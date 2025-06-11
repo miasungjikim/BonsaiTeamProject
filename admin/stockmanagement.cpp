@@ -6,6 +6,8 @@
 #include <iostream>
 #include <iomanip>
 
+using namespace std;
+
 void StockManagement::loadFromFile(const string& filename) {
     products.clear();
 
@@ -180,3 +182,7 @@ void StockManagement::updateStockAfterPurchase(const string& product_id, int qua
     cout << "Product ID '" << product_id << "' not found.\n";
 }
 
+
+const vector<Product>& StockManagement::getProducts() const {
+    return products;
+}

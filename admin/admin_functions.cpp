@@ -20,7 +20,7 @@ void adminAddProduct(StockManagement& stock) {
     cin.ignore();
     cout << "Enter release date (e.g. DD-MM-YYYY): ";
     getline(cin, newProduct.release_date);
-    cout << "Enter store location: ";
+    cout << "Enter store location(AUCKLAND,WELLING CBD, CHRISTCHURCH): ";
     getline(cin, newProduct.store);
 
     stock.addProduct(newProduct);
@@ -42,7 +42,7 @@ void adminEditProduct(StockManagement& stock) {
     cin.ignore();
     cout << "Enter new release date: ";
     getline(cin, updated.release_date);
-    cout << "Enter new store location: ";
+    cout << "Enter new store location(AUCKLAND,WELLING CBD, CHRISTCHURCH): ";
     getline(cin, updated.store);
 
     stock.updateProduct(id, updated);

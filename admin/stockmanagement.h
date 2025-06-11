@@ -23,6 +23,7 @@ public:
     void updateStockAfterPurchase(const string& product_id, int quantity_purchased); //userstory7
     void viewAllProducts() const; //userstory3
 
+    const vector<Product>& getProducts() const;
 };
 
 

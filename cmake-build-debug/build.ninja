@@ -97,6 +97,30 @@ build CMakeFiles/BonsaiTeamProject.dir/admin/admin_functions.cpp.o: CXX_COMPILER
   OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
   OBJECT_FILE_DIR = CMakeFiles/BonsaiTeamProject.dir/admin
 
+build CMakeFiles/BonsaiTeamProject.dir/admin/allhistory.cpp.o: CXX_COMPILER__BonsaiTeamProject_unscanned_Debug /Users/mia/BonsaiTeamProject/admin/allhistory.cpp || cmake_object_order_depends_target_BonsaiTeamProject
+  DEP_FILE = CMakeFiles/BonsaiTeamProject.dir/admin/allhistory.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
+  OBJECT_FILE_DIR = CMakeFiles/BonsaiTeamProject.dir/admin
+
+build CMakeFiles/BonsaiTeamProject.dir/user/purchase.cpp.o: CXX_COMPILER__BonsaiTeamProject_unscanned_Debug /Users/mia/BonsaiTeamProject/user/purchase.cpp || cmake_object_order_depends_target_BonsaiTeamProject
+  DEP_FILE = CMakeFiles/BonsaiTeamProject.dir/user/purchase.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
+  OBJECT_FILE_DIR = CMakeFiles/BonsaiTeamProject.dir/user
+
+build CMakeFiles/BonsaiTeamProject.dir/user/history.cpp.o: CXX_COMPILER__BonsaiTeamProject_unscanned_Debug /Users/mia/BonsaiTeamProject/user/history.cpp || cmake_object_order_depends_target_BonsaiTeamProject
+  DEP_FILE = CMakeFiles/BonsaiTeamProject.dir/user/history.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
+  OBJECT_FILE_DIR = CMakeFiles/BonsaiTeamProject.dir/user
+
+build CMakeFiles/BonsaiTeamProject.dir/user/inventory.cpp.o: CXX_COMPILER__BonsaiTeamProject_unscanned_Debug /Users/mia/BonsaiTeamProject/user/inventory.cpp || cmake_object_order_depends_target_BonsaiTeamProject
+  DEP_FILE = CMakeFiles/BonsaiTeamProject.dir/user/inventory.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
+  OBJECT_FILE_DIR = CMakeFiles/BonsaiTeamProject.dir/user
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target BonsaiTeamProject
@@ -105,7 +129,7 @@ build CMakeFiles/BonsaiTeamProject.dir/admin/admin_functions.cpp.o: CXX_COMPILER
 #############################################
 # Link the executable BonsaiTeamProject
 
-build BonsaiTeamProject: CXX_EXECUTABLE_LINKER__BonsaiTeamProject_Debug CMakeFiles/BonsaiTeamProject.dir/src/main.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/ui.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/signup.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/signin.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/admin_panel.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/user_panel.cpp.o CMakeFiles/BonsaiTeamProject.dir/admin/stockmanagement.cpp.o CMakeFiles/BonsaiTeamProject.dir/admin/admin_functions.cpp.o
+build BonsaiTeamProject: CXX_EXECUTABLE_LINKER__BonsaiTeamProject_Debug CMakeFiles/BonsaiTeamProject.dir/src/main.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/ui.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/signup.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/signin.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/admin_panel.cpp.o CMakeFiles/BonsaiTeamProject.dir/src/user_panel.cpp.o CMakeFiles/BonsaiTeamProject.dir/admin/stockmanagement.cpp.o CMakeFiles/BonsaiTeamProject.dir/admin/admin_functions.cpp.o CMakeFiles/BonsaiTeamProject.dir/admin/allhistory.cpp.o CMakeFiles/BonsaiTeamProject.dir/user/purchase.cpp.o CMakeFiles/BonsaiTeamProject.dir/user/history.cpp.o CMakeFiles/BonsaiTeamProject.dir/user/inventory.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/BonsaiTeamProject.dir
   POST_BUILD = :
