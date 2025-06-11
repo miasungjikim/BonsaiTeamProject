@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\auth">
+      <UniqueIdentifier>{c0dae87b-d70e-4c4e-a0ad-1fa8c0535c6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\auth">
+      <UniqueIdentifier>{63094b60-f3a7-4661-a079-4888f85cd8f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\admin">
+      <UniqueIdentifier>{b48910d9-d0d7-4c6d-8310-93e640da9093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\admin">
+      <UniqueIdentifier>{abf008df-ad67-46a6-b393-2f4a2e4a8fc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\user">
+      <UniqueIdentifier>{17c35ea9-7be7-4a24-b55c-be448c4f0ce2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\user">
+      <UniqueIdentifier>{94f25398-3de2-4016-9893-c8c0020ead47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="entry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="signin.cpp">
+      <Filter>Source Files\auth</Filter>
+    </ClCompile>
+    <ClCompile Include="signup.cpp">
+      <Filter>Source Files\auth</Filter>
+    </ClCompile>
+    <ClCompile Include="admin_panel.cpp">
+      <Filter>Source Files\admin</Filter>
+    </ClCompile>
+    <ClCompile Include="admin_functions.cpp">
+      <Filter>Source Files\admin</Filter>
+    </ClCompile>
+    <ClCompile Include="allinventory.cpp">
+      <Filter>Source Files\admin</Filter>
+    </ClCompile>
+    <ClCompile Include="stockmanagement.cpp">
+      <Filter>Source Files\admin</Filter>
+    </ClCompile>
+    <ClCompile Include="user_panel.cpp">
+      <Filter>Source Files\user</Filter>
+    </ClCompile>
+    <ClCompile Include="history.cpp">
+      <Filter>Source Files\user</Filter>
+    </ClCompile>
+    <ClCompile Include="inventory.cpp">
+      <Filter>Source Files\user</Filter>
+    </ClCompile>
+    <ClCompile Include="purchase.cpp">
+      <Filter>Source Files\user</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="entry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="signin.h">
+      <Filter>Header Files\auth</Filter>
+    </ClInclude>
+    <ClInclude Include="signup.h">
+      <Filter>Header Files\auth</Filter>
+    </ClInclude>
+    <ClInclude Include="admin_panel.h">
+      <Filter>Header Files\admin</Filter>
+    </ClInclude>
+    <ClInclude Include="product.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="admin_functions.h">
+      <Filter>Header Files\admin</Filter>
+    </ClInclude>
+    <ClInclude Include="allinventory.h">
+      <Filter>Header Files\admin</Filter>
+    </ClInclude>
+    <ClInclude Include="stockmanagement.h">
+      <Filter>Header Files\admin</Filter>
+    </ClInclude>
+    <ClInclude Include="user_panel.h">
+      <Filter>Header Files\user</Filter>
+    </ClInclude>
+    <ClInclude Include="history.h">
+      <Filter>Header Files\user</Filter>
+    </ClInclude>
+    <ClInclude Include="inventory.h">
+      <Filter>Header Files\user</Filter>
+    </ClInclude>
+    <ClInclude Include="purchase.h">
+      <Filter>Header Files\user</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

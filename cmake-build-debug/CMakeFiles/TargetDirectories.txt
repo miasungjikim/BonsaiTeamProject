@@ -1,3 +1,0 @@
-/Users/mia/BonsaiTeamProject/cmake-build-debug/CMakeFiles/BonsaiTeamProject.dir
-/Users/mia/BonsaiTeamProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mia/BonsaiTeamProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
