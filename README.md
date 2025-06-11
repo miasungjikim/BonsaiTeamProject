@@ -30,10 +30,10 @@ Users will also be able to choose a store, view products, and make purchases tha
 # Folder Layout 
 - main 
 - branch1 (feature/signin)
-- branch2 (feature/login)
-- branch3 (feature/user-inventory)
+- branch2 (feature/signup)
+- branch3 (feature/inventory)
 - branch4 (feature/stock-management)
-- branch5 (feature/staff scheduling)
+- branch5 (feature/staff-scheduling)
 - branch6 (feature/main-frame)
 
 # How we use 'Git'
