@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\admin_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\allinventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\allinventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\history.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\history.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\signup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\admin_functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stockmanagement.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\stockmanagement.cpp",
+              "RelativeDocumentMoniker": "main\\stockmanagement.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\stockmanagement.cpp",
+              "RelativeToolTip": "main\\stockmanagement.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T23:27:26.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inventory.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\inventory.cpp",
+              "RelativeDocumentMoniker": "main\\inventory.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\inventory.cpp",
+              "RelativeToolTip": "main\\inventory.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T23:27:16.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "history.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\history.h",
+              "RelativeDocumentMoniker": "main\\history.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\history.h",
+              "RelativeToolTip": "main\\history.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T23:27:04.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "allinventory.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\allinventory.cpp",
+              "RelativeDocumentMoniker": "main\\allinventory.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\allinventory.cpp",
+              "RelativeToolTip": "main\\allinventory.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T23:24:57.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "user_panel.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\user_panel.cpp",
+              "RelativeDocumentMoniker": "main\\user_panel.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\user_panel.cpp",
+              "RelativeToolTip": "main\\user_panel.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T23:23:31.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "admin_functions.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_functions.h",
+              "RelativeDocumentMoniker": "main\\admin_functions.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_functions.h",
+              "RelativeToolTip": "main\\admin_functions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T22:43:30.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin_functions.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_functions.cpp",
+              "RelativeDocumentMoniker": "main\\admin_functions.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_functions.cpp",
+              "RelativeToolTip": "main\\admin_functions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T21:11:27.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin_panel.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_panel.h",
+              "RelativeDocumentMoniker": "main\\admin_panel.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_panel.h",
+              "RelativeToolTip": "main\\admin_panel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T21:11:24.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admin_panel.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_panel.cpp",
+              "RelativeDocumentMoniker": "main\\admin_panel.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\admin_panel.cpp",
+              "RelativeToolTip": "main\\admin_panel.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T21:11:01.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "signup.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signup.cpp",
+              "RelativeDocumentMoniker": "main\\signup.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signup.cpp",
+              "RelativeToolTip": "main\\signup.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv1AAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T20:54:28.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "signup.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signup.h",
+              "RelativeDocumentMoniker": "main\\signup.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signup.h",
+              "RelativeToolTip": "main\\signup.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T20:54:17.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\main.cpp",
+              "RelativeDocumentMoniker": "main\\main.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\main.cpp",
+              "RelativeToolTip": "main\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T20:50:31.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "purchase.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\purchase.cpp",
+              "RelativeDocumentMoniker": "main\\purchase.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\purchase.cpp",
+              "RelativeToolTip": "main\\purchase.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T23:30:37.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "history.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\history.cpp",
+              "RelativeDocumentMoniker": "main\\history.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\history.cpp",
+              "RelativeToolTip": "main\\history.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T20:52:04.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "signin.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signin.h",
+              "RelativeDocumentMoniker": "main\\signin.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signin.h",
+              "RelativeToolTip": "main\\signin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T20:52:01.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "signin.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signin.cpp",
+              "RelativeDocumentMoniker": "main\\signin.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\signin.cpp",
+              "RelativeToolTip": "main\\signin.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T20:52:00.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "entry.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\entry.cpp",
+              "RelativeDocumentMoniker": "main\\entry.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\entry.cpp",
+              "RelativeToolTip": "main\\entry.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T20:51:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "entry.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\entry.h",
+              "RelativeDocumentMoniker": "main\\entry.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\Backup for Window Visual Studio\\main\\entry.h",
+              "RelativeToolTip": "main\\entry.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T20:51:26.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
