@@ -1,16 +1,7 @@
-﻿  admin_functions.cpp
-  admin_panel.cpp
-  allinventory.cpp
-  entry.cpp
-  history.cpp
+﻿  entry.cpp
   inventory.cpp
   main.cpp
-  purchase.cpp
   signin.cpp
-  signup.cpp
-  staff_Schedule_Code.cpp
-D:\Users\270643553\103_Integrated_Studio\BonsaiTeamProject\main\staff_Schedule_Code.cpp(120,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  stockmanagement.cpp
   user_panel.cpp
   Generating Code...
   main.vcxproj -> D:\Users\270643553\103_Integrated_Studio\BonsaiTeamProject\main\x64\Debug\main.exe

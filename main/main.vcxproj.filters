@@ -69,9 +69,6 @@
     <ClCompile Include="purchase.cpp">
       <Filter>Source Files\user</Filter>
     </ClCompile>
-    <ClCompile Include="staff_Schedule_Code.cpp">
-      <Filter>Source Files\admin</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="entry.h">
@@ -109,9 +106,6 @@
     </ClInclude>
     <ClInclude Include="purchase.h">
       <Filter>Header Files\user</Filter>
-    </ClInclude>
-    <ClInclude Include="staff_scheduler.h">
-      <Filter>Header Files\admin</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

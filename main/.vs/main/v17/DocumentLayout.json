@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:stockmanagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_Schedule_Code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:staff_Schedule_Code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_scheduler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:staff_scheduler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:purchase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:user_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -51,6 +23,34 @@
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:purchase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:history.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -59,20 +59,20 @@
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:user_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:stockmanagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -91,20 +91,12 @@
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,100 +118,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "staff_scheduler.h",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_scheduler.h",
-              "RelativeDocumentMoniker": "staff_scheduler.h",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_scheduler.h",
-              "RelativeToolTip": "staff_scheduler.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-15T22:45:05.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "purchase.cpp",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.cpp",
               "RelativeDocumentMoniker": "purchase.cpp",
               "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.cpp",
               "RelativeToolTip": "purchase.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:21:13.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "history.h",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.h",
-              "RelativeDocumentMoniker": "history.h",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.h",
-              "RelativeToolTip": "history.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:19:15.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "admin_panel.cpp",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp",
-              "RelativeDocumentMoniker": "admin_panel.cpp",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp",
-              "RelativeToolTip": "admin_panel.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:11:18.078Z",
+              "WhenOpened": "2025-06-11T22:21:13.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "staff_Schedule_Code.cpp",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_Schedule_Code.cpp",
-              "RelativeDocumentMoniker": "staff_Schedule_Code.cpp",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_Schedule_Code.cpp",
-              "RelativeToolTip": "staff_Schedule_Code.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "signin.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp",
+              "RelativeDocumentMoniker": "signin.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp",
+              "RelativeToolTip": "signin.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-15T22:45:43.105Z"
+              "WhenOpened": "2025-06-11T22:06:50.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "user_panel.cpp",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp",
-              "RelativeDocumentMoniker": "user_panel.cpp",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp",
-              "RelativeToolTip": "user_panel.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:18:42.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "user_panel.h",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.h",
               "RelativeDocumentMoniker": "user_panel.h",
               "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.h",
               "RelativeToolTip": "user_panel.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:18:26.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "stockmanagement.h",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h",
-              "RelativeDocumentMoniker": "stockmanagement.h",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h",
-              "RelativeToolTip": "stockmanagement.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:14:43.023Z",
+              "WhenOpened": "2025-06-11T22:18:26.012Z",
               "EditorCaption": ""
             },
             {
@@ -236,27 +169,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "stockmanagement.cpp",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp",
-              "RelativeDocumentMoniker": "stockmanagement.cpp",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp",
-              "RelativeToolTip": "stockmanagement.cpp",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJ0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:14:53.55Z"
+              "DocumentIndex": 19,
+              "Title": "allinventory.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.h",
+              "RelativeDocumentMoniker": "allinventory.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.h",
+              "RelativeToolTip": "allinventory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T22:13:42.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "admin_panel.h",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h",
-              "RelativeDocumentMoniker": "admin_panel.h",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h",
-              "RelativeToolTip": "admin_panel.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T22:02:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "signup.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp",
+              "RelativeDocumentMoniker": "signup.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp",
+              "RelativeToolTip": "signup.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswFIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T22:08:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "signin.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h",
+              "RelativeDocumentMoniker": "signin.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h",
+              "RelativeToolTip": "signin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:11:07.137Z"
+              "WhenOpened": "2025-06-11T22:06:33.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "entry.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h",
+              "RelativeDocumentMoniker": "entry.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h",
+              "RelativeToolTip": "entry.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T22:03:31.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -272,19 +245,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "entry.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp",
+              "RelativeDocumentMoniker": "entry.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp",
+              "RelativeToolTip": "entry.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T22:04:15.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user_panel.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp",
+              "RelativeDocumentMoniker": "user_panel.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp",
+              "RelativeToolTip": "user_panel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-11T22:18:42.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "inventory.h",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.h",
               "RelativeDocumentMoniker": "inventory.h",
               "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.h",
               "RelativeToolTip": "inventory.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:20:02.004Z"
+              "WhenOpened": "2025-06-11T22:20:02.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "inventory.cpp",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.cpp",
               "RelativeDocumentMoniker": "inventory.cpp",
@@ -292,11 +292,36 @@
               "RelativeToolTip": "inventory.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:20:21.395Z"
+              "WhenOpened": "2025-06-11T22:20:21.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
+              "Title": "stockmanagement.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h",
+              "RelativeDocumentMoniker": "stockmanagement.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h",
+              "RelativeToolTip": "stockmanagement.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T22:14:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "history.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.h",
+              "RelativeDocumentMoniker": "history.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.h",
+              "RelativeToolTip": "history.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T22:19:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "purchase.h",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.h",
               "RelativeDocumentMoniker": "purchase.h",
@@ -308,27 +333,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "allinventory.h",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.h",
-              "RelativeDocumentMoniker": "allinventory.h",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.h",
-              "RelativeToolTip": "allinventory.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:13:42.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "stockmanagement.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp",
+              "RelativeDocumentMoniker": "stockmanagement.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp",
+              "RelativeToolTip": "stockmanagement.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:02:13.553Z"
+              "WhenOpened": "2025-06-11T22:14:53.55Z"
             },
             {
               "$type": "Document",
@@ -356,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "product.h",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\product.h",
               "RelativeDocumentMoniker": "product.h",
@@ -369,38 +382,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "signup.cpp",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp",
-              "RelativeDocumentMoniker": "signup.cpp",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp",
-              "RelativeToolTip": "signup.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Title": "admin_panel.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp",
+              "RelativeDocumentMoniker": "admin_panel.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp",
+              "RelativeToolTip": "admin_panel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:08:01.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "entry.h",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h",
-              "RelativeDocumentMoniker": "entry.h",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h",
-              "RelativeToolTip": "entry.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:03:31.296Z"
+              "WhenOpened": "2025-06-11T22:11:18.078Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "signin.cpp",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp",
-              "RelativeDocumentMoniker": "signin.cpp",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp",
-              "RelativeToolTip": "signin.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:06:50.896Z"
+              "Title": "admin_panel.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h",
+              "RelativeDocumentMoniker": "admin_panel.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h",
+              "RelativeToolTip": "admin_panel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-11T22:11:07.137Z"
             },
             {
               "$type": "Document",
@@ -413,30 +414,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-11T22:07:45.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "signin.h",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h",
-              "RelativeDocumentMoniker": "signin.h",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h",
-              "RelativeToolTip": "signin.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:06:33.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "entry.cpp",
-              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp",
-              "RelativeDocumentMoniker": "entry.cpp",
-              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp",
-              "RelativeToolTip": "entry.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:04:15.458Z"
             }
           ]
         }

@@ -10,9 +10,9 @@
 using namespace std;
 
 
-void userPanel(const string& user_email) {
+void userPanel(const string& user_email, const string& store) {
     // string user_email;
-    cout << "\nWelcome," << user_email << endl;
+    cout << "\nKia Ora," << user_email << ". You're store : " << store << endl;
 
     int choice;
     while (true) {
@@ -26,7 +26,7 @@ void userPanel(const string& user_email) {
 
         switch (choice) {
         case 1:
-            viewInventoryMenu(user_email);
+            viewInventoryMenu(user_email, store);
             break;
         case 2:
             purchaseProduct(user_email);

@@ -12,26 +12,41 @@ using namespace std;
 #include "admin_panel.h"
 #include "user_panel.h"
 
-bool checkLogin(const string& file_name, const string& email, const string& password) {
+
+//checkLogin()
+LoginInfo checkLogin(const string& file_name, const string& email, const string& password, bool is_user) {
     ifstream file(file_name);
-    if (!file) return false;
+    LoginInfo result{ false, "", "", "", "" };
+
+    if (!file) return result;
 
     string line;
     while (getline(file, line)) {
         stringstream ss(line);
-        string id, file_email, name, file_password;
+        string id, file_email, name, file_password, store;
+
         getline(ss, id, ',');
         getline(ss, file_email, ',');
         getline(ss, name, ',');
         getline(ss, file_password, ',');
 
+        if (is_user) {
+            getline(ss, store, ','); // For users only
+        }
+
         if (file_email == email && file_password == password) {
-            return true;
+            result.success = true;
+            result.id = id;
+            result.email = file_email;
+            result.name = name;
+            result.store = store;
+            return result;
         }
     }
-    return false;
-}
 
+    return result;
+}
+//loginMenu()
 void loginMenu() {
     cout << "========== Log In ==========" << endl;
     cout << "1) User" << endl;
@@ -58,17 +73,22 @@ void loginMenu() {
         return;
     }
 
-    bool success = checkLogin(file_name, email, password);
-    if (success) {
+    //LoginInfo login()
+    bool is_user = (role_choice == 1);
+    LoginInfo login = checkLogin(file_name, email, password, is_user);
+
+    if (login.success) {
         cout << "Login successful!" << endl;
+
         if (role_choice == 1) {
             cout << "Redirecting to User Panel..." << endl;
-            userPanel(email);
+            userPanel(login.email, login.store);  // Pass store to userPanel
         }
         else {
             cout << "Redirecting to Admin Panel..." << endl;
             adminPanel();
         }
+
     }
     else {
         cout << "Incorrect email or password." << endl;

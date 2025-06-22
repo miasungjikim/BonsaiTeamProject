@@ -1,14 +1,14 @@
-//
+﻿//
 // Created by MiaKim on 11/06/2025.
 //
-
+// inventory.cpp
 #include "inventory.h"
 #include "stockmanagement.h"
 #include <iostream>
 #include <iomanip>
 using namespace std;
 
-void viewInventoryMenu(const string& user_email) {
+void viewInventoryMenu(const string& user_email, const string& user_store) {
     StockManagement stock;
     stock.loadFromFile("products.txt");
 
@@ -22,13 +22,16 @@ void viewInventoryMenu(const string& user_email) {
     cout << "---------------------------------------------\n";
 
     for (const auto& product : stock.getProducts()) {
-        cout << left << setw(10) << product.product_id
-            << setw(20) << product.name
-            << setw(15) << product.category
-            << setw(10) << product.quantity
-            << setw(15) << product.release_date
-            << setw(15) << product.store << endl;
+        if (product.store == user_store) {  //유저의 매장만 보여주기
+            cout << left << setw(10) << product.product_id
+                << setw(20) << product.name
+                << setw(15) << product.category
+                << setw(10) << product.quantity
+                << setw(15) << product.release_date
+                << setw(15) << product.store << endl;
+        }
     }
+
 
     //enter --> back feature
     cout << "\nPress Enter to go back to the menu...";

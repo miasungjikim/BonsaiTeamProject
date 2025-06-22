@@ -8,8 +8,9 @@
 #include <string>
 using namespace std;
 
-void viewInventoryMenu(const string& user_email);
+void viewInventoryMenu(const string& user_email, const string& user_store);
 void purchaseProduct(const string& user_email);
 void viewPurchaseHistory(const string& user_email);
 
 #endif //INVENTORY_H
+

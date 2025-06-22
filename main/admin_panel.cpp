@@ -7,7 +7,6 @@
 #include "stockmanagement.h"
 #include "admin_functions.h"
 #include "allinventory.h"
-#include "staff_scheduler.h"
 using namespace std;
 
 void adminPanel() {
@@ -53,7 +52,7 @@ void adminPanel() {
             viewAllPurchaseHistory();
             break;
         case 4:
-            manageStaffSchedule();
+            cout << "[Placeholder] Staff scheduling coming soon...\n";
             break;
         case 5:
             cout << "Logging out..." << endl;

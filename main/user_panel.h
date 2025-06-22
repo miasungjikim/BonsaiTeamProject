@@ -8,7 +8,7 @@
 #include <string>
 using namespace std;
 
-void userPanel(const string& user_email);
+void userPanel(const string& user_email, const string& store);
 
 
 

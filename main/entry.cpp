@@ -15,14 +15,27 @@ void showMainMenu() {
 
     while (true) {
         cout << "=====================================================" << endl;
-        cout << "   Welcome to Aotearoa Boutique Retailer      " << endl;
-        cout << "    Stock and Purchase Management System      " << endl;
-
-        cout << " This program is designed to help manage:      " << endl;
-        cout << " - Product inventory across multiple stores    " << endl;
-        cout << " - User purchases and admin stock control      " << endl;
-        cout << " - Admin manage staff scheduling" << endl;
+        cout << "Kia Ora, We're Aotearoa Treasures Ltd.      " << endl;
         cout << "-----------------------------------------------------" << endl;
+        cout << " We are a New Zealand boutique retailer specialising" << endl;
+        cout << " in authentic New Zealand-made handicrafts and souvenirs." << endl;
+        cout << " Our stores are located in AUCKLAND, WELLINGTON CBD, " << endl;
+        cout << " and CHRISTCHURCH.                                   " << endl;
+        cout << "-----------------------------------------------------" << endl;
+        cout << " This system is designed for both customers and admins." << endl;
+        cout << " (Sign-up and login required to access features)      " << endl;
+        cout << "-----------------------------------------------------" << endl;
+        cout << " If you are a USER, you can:                         " << endl;
+        cout << "  - View available stock in your registered store    " << endl;
+        cout << "  - Purchase items                                   " << endl;
+        cout << "  - Check your purchase history                      " << endl;
+        cout << "-----------------------------------------------------" << endl;
+        cout << " If you are an ADMIN, you can:                       " << endl;
+        cout << "  - View and manage stock across all stores          " << endl;
+        cout << "  - View customer purchase records                   " << endl;
+        cout << "  - Manage staff schedules                           " << endl;
+        cout << "=====================================================" << endl;
+
 
 
 
@@ -36,7 +49,7 @@ void showMainMenu() {
 
         switch (choice) {
         case 1:
-            loginMenu();
+            login();
             break;
         case 2:
             signUp();
