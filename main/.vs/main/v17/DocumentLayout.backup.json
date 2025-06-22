@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\merging2\\main\\",
+  "WorkspaceRootPath": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\staff_Schedule_Code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:staff_Schedule_Code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\staff_scheduler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:staff_scheduler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\purchase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:purchase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\history.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:history.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\user_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:user_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\stockmanagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:stockmanagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\allinventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:stockmanagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_Schedule_Code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:staff_Schedule_Code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_scheduler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:staff_scheduler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:purchase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:purchase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:history.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:user_panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:entry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:allinventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\allinventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:allinventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\admin_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\admin_functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\signup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:signin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\merging2\\main\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "staff_scheduler.h",
-              "DocumentMoniker": "D:\\merging2\\main\\staff_scheduler.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_scheduler.h",
               "RelativeDocumentMoniker": "staff_scheduler.h",
-              "ToolTip": "D:\\merging2\\main\\staff_scheduler.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_scheduler.h",
               "RelativeToolTip": "staff_scheduler.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -138,11 +138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "purchase.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\purchase.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.cpp",
               "RelativeDocumentMoniker": "purchase.cpp",
-              "ToolTip": "D:\\merging2\\main\\purchase.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.cpp",
               "RelativeToolTip": "purchase.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -150,11 +150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "history.h",
-              "DocumentMoniker": "D:\\merging2\\main\\history.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.h",
               "RelativeDocumentMoniker": "history.h",
-              "ToolTip": "D:\\merging2\\main\\history.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.h",
               "RelativeToolTip": "history.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -162,24 +162,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "admin_panel.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\admin_panel.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp",
               "RelativeDocumentMoniker": "admin_panel.cpp",
-              "ToolTip": "D:\\merging2\\main\\admin_panel.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp",
               "RelativeToolTip": "admin_panel.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-11T22:11:18.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "staff_Schedule_Code.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\staff_Schedule_Code.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_Schedule_Code.cpp",
               "RelativeDocumentMoniker": "staff_Schedule_Code.cpp",
-              "ToolTip": "D:\\merging2\\main\\staff_Schedule_Code.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_Schedule_Code.cpp",
               "RelativeToolTip": "staff_Schedule_Code.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -187,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "user_panel.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\user_panel.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp",
               "RelativeDocumentMoniker": "user_panel.cpp",
-              "ToolTip": "D:\\merging2\\main\\user_panel.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp",
               "RelativeToolTip": "user_panel.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -199,11 +199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "user_panel.h",
-              "DocumentMoniker": "D:\\merging2\\main\\user_panel.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.h",
               "RelativeDocumentMoniker": "user_panel.h",
-              "ToolTip": "D:\\merging2\\main\\user_panel.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.h",
               "RelativeToolTip": "user_panel.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -211,23 +211,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "stockmanagement.h",
-              "DocumentMoniker": "D:\\merging2\\main\\stockmanagement.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h",
               "RelativeDocumentMoniker": "stockmanagement.h",
-              "ToolTip": "D:\\merging2\\main\\stockmanagement.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.h",
               "RelativeToolTip": "stockmanagement.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:14:43.023Z"
+              "WhenOpened": "2025-06-11T22:14:43.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "allinventory.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\allinventory.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.cpp",
               "RelativeDocumentMoniker": "allinventory.cpp",
-              "ToolTip": "D:\\merging2\\main\\allinventory.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.cpp",
               "RelativeToolTip": "allinventory.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -235,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "stockmanagement.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\stockmanagement.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp",
               "RelativeDocumentMoniker": "stockmanagement.cpp",
-              "ToolTip": "D:\\merging2\\main\\stockmanagement.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\stockmanagement.cpp",
               "RelativeToolTip": "stockmanagement.cpp",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAAJ0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -247,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "admin_panel.h",
-              "DocumentMoniker": "D:\\merging2\\main\\admin_panel.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h",
               "RelativeDocumentMoniker": "admin_panel.h",
-              "ToolTip": "D:\\merging2\\main\\admin_panel.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h",
               "RelativeToolTip": "admin_panel.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -259,11 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "history.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\history.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.cpp",
               "RelativeDocumentMoniker": "history.cpp",
-              "ToolTip": "D:\\merging2\\main\\history.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\history.cpp",
               "RelativeToolTip": "history.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -271,11 +272,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "inventory.h",
-              "DocumentMoniker": "D:\\merging2\\main\\inventory.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.h",
               "RelativeDocumentMoniker": "inventory.h",
-              "ToolTip": "D:\\merging2\\main\\inventory.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.h",
               "RelativeToolTip": "inventory.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -283,11 +284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "inventory.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\inventory.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.cpp",
               "RelativeDocumentMoniker": "inventory.cpp",
-              "ToolTip": "D:\\merging2\\main\\inventory.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\inventory.cpp",
               "RelativeToolTip": "inventory.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -295,11 +296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "purchase.h",
-              "DocumentMoniker": "D:\\merging2\\main\\purchase.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.h",
               "RelativeDocumentMoniker": "purchase.h",
-              "ToolTip": "D:\\merging2\\main\\purchase.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.h",
               "RelativeToolTip": "purchase.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -309,9 +310,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "allinventory.h",
-              "DocumentMoniker": "D:\\merging2\\main\\allinventory.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.h",
               "RelativeDocumentMoniker": "allinventory.h",
-              "ToolTip": "D:\\merging2\\main\\allinventory.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\allinventory.h",
               "RelativeToolTip": "allinventory.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -319,11 +320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\main.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\merging2\\main\\main.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp",
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -333,9 +334,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "admin_functions.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\admin_functions.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_functions.cpp",
               "RelativeDocumentMoniker": "admin_functions.cpp",
-              "ToolTip": "D:\\merging2\\main\\admin_functions.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_functions.cpp",
               "RelativeToolTip": "admin_functions.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -345,9 +346,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "admin_functions.h",
-              "DocumentMoniker": "D:\\merging2\\main\\admin_functions.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_functions.h",
               "RelativeDocumentMoniker": "admin_functions.h",
-              "ToolTip": "D:\\merging2\\main\\admin_functions.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_functions.h",
               "RelativeToolTip": "admin_functions.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -355,11 +356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "product.h",
-              "DocumentMoniker": "D:\\merging2\\main\\product.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\product.h",
               "RelativeDocumentMoniker": "product.h",
-              "ToolTip": "D:\\merging2\\main\\product.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\product.h",
               "RelativeToolTip": "product.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -369,9 +370,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "signup.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\signup.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp",
               "RelativeDocumentMoniker": "signup.cpp",
-              "ToolTip": "D:\\merging2\\main\\signup.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.cpp",
               "RelativeToolTip": "signup.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -379,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "entry.h",
-              "DocumentMoniker": "D:\\merging2\\main\\entry.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h",
               "RelativeDocumentMoniker": "entry.h",
-              "ToolTip": "D:\\merging2\\main\\entry.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.h",
               "RelativeToolTip": "entry.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -391,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "signin.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\signin.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp",
               "RelativeDocumentMoniker": "signin.cpp",
-              "ToolTip": "D:\\merging2\\main\\signin.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.cpp",
               "RelativeToolTip": "signin.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -405,9 +406,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "signup.h",
-              "DocumentMoniker": "D:\\merging2\\main\\signup.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.h",
               "RelativeDocumentMoniker": "signup.h",
-              "ToolTip": "D:\\merging2\\main\\signup.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signup.h",
               "RelativeToolTip": "signup.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -417,9 +418,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "signin.h",
-              "DocumentMoniker": "D:\\merging2\\main\\signin.h",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h",
               "RelativeDocumentMoniker": "signin.h",
-              "ToolTip": "D:\\merging2\\main\\signin.h",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\signin.h",
               "RelativeToolTip": "signin.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -429,9 +430,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "entry.cpp",
-              "DocumentMoniker": "D:\\merging2\\main\\entry.cpp",
+              "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp",
               "RelativeDocumentMoniker": "entry.cpp",
-              "ToolTip": "D:\\merging2\\main\\entry.cpp",
+              "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp",
               "RelativeToolTip": "entry.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
