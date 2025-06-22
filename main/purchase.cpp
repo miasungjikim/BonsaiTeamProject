@@ -45,8 +45,7 @@ void purchaseProduct(const string& user_email) {
             char time_buf[20];
             strftime(time_buf, sizeof(time_buf), "%Y-%m-%d %H:%M", timeinfo);
 
-            // ?? ?? ??
-            // ?? ?? ?? (??: user_email, product_id, product_name, quantity, store, datetime)
+            // (user_email, product_id, product_name, quantity, store, datetime)
             ofstream history("purchase_history.txt", ios::app);
             history << user_email << ","
                 << p.product_id << ","

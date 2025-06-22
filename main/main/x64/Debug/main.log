@@ -1,7 +1,2 @@
-﻿  entry.cpp
-  inventory.cpp
-  main.cpp
-  signin.cpp
-  user_panel.cpp
-  Generating Code...
+﻿  admin_panel.cpp
   main.vcxproj -> D:\Users\270643553\103_Integrated_Studio\BonsaiTeamProject\main\x64\Debug\main.exe

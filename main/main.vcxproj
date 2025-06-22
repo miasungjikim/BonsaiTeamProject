@@ -137,6 +137,7 @@
     <ClCompile Include="purchase.cpp" />
     <ClCompile Include="signin.cpp" />
     <ClCompile Include="signup.cpp" />
+    <ClCompile Include="Staff_Schedule_Code.cpp" />
     <ClCompile Include="stockmanagement.cpp" />
     <ClCompile Include="user_panel.cpp" />
   </ItemGroup>
@@ -151,6 +152,7 @@
     <ClInclude Include="purchase.h" />
     <ClInclude Include="signin.h" />
     <ClInclude Include="signup.h" />
+    <ClInclude Include="staff_scheduler.h" />
     <ClInclude Include="stockmanagement.h" />
     <ClInclude Include="user_panel.h" />
   </ItemGroup>
