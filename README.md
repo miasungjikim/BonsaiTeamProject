@@ -1,47 +1,83 @@
 # BonsaiTeamProject
- The repository contains our group work for the Integrated Studio we course at Yoobee Colleges.
- We've choosen Scenario2, which is focuses on developing  an inventory and staff management for a fictional boutique retailier specialising company named Aotearoa Treasures.
+
+This repository contains the group work completed for the *Integrated Studio I* course at Yoobee Colleges.
+
+We chose **Scenario 2**, which focuses on developing a terminal-based inventory and staff management system for a fictional boutique retailer, **Aotearoa Treasures Ltd.**, specializing in New Zealand-made handicrafts and souvenirs.
+
+---
+
+## ??? About the Project
+
+The goal of this project is to create a centralized system to manage products and employees across multiple store locations (Auckland, Wellington CBD, Christchurch). The system allows:
+
+- Admin users to manage inventory and staff schedules
+- Regular users to select a store, browse available products, and make purchases
+
+Inventory updates happen in real time, and low-stock alerts help admins take timely action.
+
+---
+
+## ?? Our Team & Roles
+
+| Name               | Roles                                |
+|--------------------|----------------------------------------|
+| **Rehan Ahmed**     | Product Owner, Developer, Tester       |
+| **Sungji Kim**      | GitHub Manager, Developer, Tester      |
+| **Tasnim Noor Muskan** | Scrum Master, Developer, Tester     |
+
+---
+
+## ? Key Features
+
+- User/Admin login system with role-based access
+- View, add, update, and delete products
+- Real-time inventory updates after purchase
+- Low-stock alerts (? 5 items)
+- View and manage weekly staff roster (admin only)
+- Track personal and global purchase history
+- Console-based UI built in C++
+
+---
+
+## ?? Tools & Technologies
+
+- **Programming Language**: C++
+- **IDE**: Visual Studio, CLion
+- **Version Control**: Git & GitHub
+- **Project Management**: Trello
+- **Team Communication**: Microsoft Teams
+- **Documentation**: Google Docs & Google Drive
+
+---
+
+## ?? Branch Structure
+
+The project was divided into 7 feature branches:
+
+| Branch Name             | Description / Purpose              | Contributor        |
+|-------------------------|-------------------------------------|--------------------|
+| `main`                  | Main working branch (final code)    | miasungjikim       |
+| `feature/stock-management` | Product inventory management       | Tasnimnoormsk3     |
+| `feature/staff-scheduling` | Weekly roster & employee functions | Tasnimnoormsk3     |
+| `feature/inventory`     | View products by store (user-side)  | miasungjikim       |
+| `feature/signin`        | User/Admin login system             | miasungjikim       |
+| `feature/signup`        | User/Admin registration             | miasungjikim       |
+| `feature/main-frame`    | Main menu flow & program entry      | miasungjikim       |
 
 
-# About the project
-The main idea of this project is to build a system that helps manage stock and employees across different store locations.
-It should allow the admin to see low-stock items, update the inventory, and manage staff schedules.
-Users will also be able to choose a store, view products, and make purchases that update the stock in real-time.
+---
 
+## ?? Git Workflow
 
-# Our Team & Roles
-- Rehan Agmed : Product Owner, Developer, Tester 
-- Sungji Kim : Github Manager, Developer, Tester  
-- Tasnim Noor Muskan : Scrum Master, Developer, Tester 
+- All features were developed on individual branches
+- Final code was merged into `main` branch after testing
+- One sprint was conducted for the entire project
+- Clear commit messages were maintained for collaboration
 
-# Key Features 
-- Login system with user and admin access
-- View and update inventory across stores
-- Automatic low stock alerts (less than 5)
-- Staff and item selection for purchases
-- Inventory updates in real-time
-- Console-based UI (C++) 
+---
 
-# Tools & Management
-- Language : C++
-- Project Management : Trello
-- Version Control : Github
-- IDE : Visual Studio, Clion
+## ?? Notes
 
-# Folder Layout 
-- main 
-- branch1 (feature/signin)
-- branch2 (feature/signup)
-- branch3 (feature/inventory)
-- branch4 (feature/stock-management)
-- branch5 (feature/staff-scheduling)
-- branch6 (feature/main-frame)
+This project was developed as part of a class assignment for educational purposes only.  
+All code, user stories, and documentation were created by the Bonsai Team.
 
-# How we use 'Git'
-- We do all development on feature branches.
-- When ready, we merge them in main. (we only do an one sprint)
-- Everyone writes clear commit message so it's east to follow progress.
-
-# Notes
-This project is part of a class assignment and is not meant for commercial use.
-All code and content were created by Bonsai team for educational purpose only.

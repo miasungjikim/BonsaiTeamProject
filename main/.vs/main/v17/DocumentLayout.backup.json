@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:admin_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:user_panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D43BAECA-E9DC-4039-AE3B-3D81B8A2947F}|main.vcxproj|D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Staff_Schedule_Code.cpp",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\Staff_Schedule_Code.cpp",
               "RelativeDocumentMoniker": "Staff_Schedule_Code.cpp",
@@ -134,12 +134,11 @@
               "RelativeToolTip": "Staff_Schedule_Code.cpp",
               "ViewState": "AgIAAIYAAAAAAAAAAAAAwK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-22T21:42:13.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T21:42:13.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "staff_scheduler.h",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\staff_scheduler.h",
               "RelativeDocumentMoniker": "staff_scheduler.h",
@@ -147,12 +146,11 @@
               "RelativeToolTip": "staff_scheduler.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-22T21:41:47.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T21:41:47.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -160,7 +158,8 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:02:13.553Z"
+              "WhenOpened": "2025-06-11T22:02:13.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -188,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "purchase.cpp",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\purchase.cpp",
               "RelativeDocumentMoniker": "purchase.cpp",
@@ -248,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "admin_panel.h",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.h",
               "RelativeDocumentMoniker": "admin_panel.h",
@@ -256,21 +255,19 @@
               "RelativeToolTip": "admin_panel.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-11T22:11:07.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T22:11:07.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "admin_panel.cpp",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp",
               "RelativeDocumentMoniker": "admin_panel.cpp",
               "ToolTip": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\admin_panel.cpp",
               "RelativeToolTip": "admin_panel.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T22:11:18.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T22:11:18.078Z"
             },
             {
               "$type": "Document",
@@ -298,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "user_panel.cpp",
               "DocumentMoniker": "D:\\Users\\270643553\\103_Integrated_Studio\\BonsaiTeamProject\\main\\user_panel.cpp",
               "RelativeDocumentMoniker": "user_panel.cpp",
