@@ -6,7 +6,7 @@ We chose **Scenario 2**, which focuses on developing a terminal-based inventory 
 
 ---
 
-## ??? About the Project
+## About the Project
 
 The goal of this project is to create a centralized system to manage products and employees across multiple store locations (Auckland, Wellington CBD, Christchurch). The system allows:
 
@@ -17,7 +17,7 @@ Inventory updates happen in real time, and low-stock alerts help admins take tim
 
 ---
 
-## ?? Our Team & Roles
+## Our Team & Roles
 
 | Name               | Roles                                |
 |--------------------|----------------------------------------|
@@ -27,7 +27,7 @@ Inventory updates happen in real time, and low-stock alerts help admins take tim
 
 ---
 
-## ? Key Features
+## Key Features
 
 - User/Admin login system with role-based access
 - View, add, update, and delete products
@@ -39,7 +39,7 @@ Inventory updates happen in real time, and low-stock alerts help admins take tim
 
 ---
 
-## ?? Tools & Technologies
+## Tools & Technologies
 
 - **Programming Language**: C++
 - **IDE**: Visual Studio, CLion
@@ -50,7 +50,7 @@ Inventory updates happen in real time, and low-stock alerts help admins take tim
 
 ---
 
-## ?? Branch Structure
+## Branch Structure
 
 The project was divided into 7 feature branches:
 
@@ -67,7 +67,7 @@ The project was divided into 7 feature branches:
 
 ---
 
-## ?? Git Workflow
+## Git Workflow
 
 - All features were developed on individual branches
 - Final code was merged into `main` branch after testing
@@ -76,7 +76,7 @@ The project was divided into 7 feature branches:
 
 ---
 
-## ?? Notes
+## Notes
 
 This project was developed as part of a class assignment for educational purposes only.  
 All code, user stories, and documentation were created by the Bonsai Team.
