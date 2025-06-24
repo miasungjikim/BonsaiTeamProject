@@ -56,7 +56,7 @@ The project was divided into 7 feature branches:
 
 | Branch Name             | Description / Purpose              | Contributor        |
 |-------------------------|-------------------------------------|--------------------|
-| `main`                  | Main working branch (final code)    | miasungjikim       |
+| `main`                  | Main working branch (final code)    |                      |
 | `feature/stock-management` | Product inventory management       | Tasnimnoormsk3     |
 | `feature/staff-scheduling` | Weekly roster & employee functions | Tasnimnoormsk3     |
 | `feature/inventory`     | View products by store (user-side)  | miasungjikim       |
