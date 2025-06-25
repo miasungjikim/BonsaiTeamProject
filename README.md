@@ -32,7 +32,7 @@ Inventory updates happen in real time, and low-stock alerts help admins take tim
 - User/Admin login system with role-based access
 - View, add, update, and delete products
 - Real-time inventory updates after purchase
-- Low-stock alerts (? 5 items)
+- Low-stock alerts (lower than 5 items)
 - View and manage weekly staff roster (admin only)
 - Track personal and global purchase history
 - Console-based UI built in C++
